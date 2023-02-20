@@ -2,6 +2,7 @@
 
 ## Requirements
 - tmux 3.3a or later
+- NerdFonts (To work the icons properly)
 
 ---
 
